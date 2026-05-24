@@ -2,46 +2,38 @@
 
 ## English Version
 
-# SwiftCart Solutions
+# Vealis Labs
 
-SwiftCart Solutions is a B2B Software-as-a-Service (SaaS) platform that transforms social media channels into fully automated e-commerce businesses. We help independent merchants scale their sales, eliminate manual order processing, and significantly boost operational productivity.
+Vealis Labs is a technology organization dedicated to engineering scalable SaaS platforms, robust backend infrastructure, and comprehensive business automation tools. We focus on building products that simplify complex operations, with a strong emphasis on architectural excellence, global authentication systems, and seamless user experiences.
 
-### Value Proposition: What Merchants Get
+### Core Focus Areas
 
-* **Increased Sales Conversion:** By replacing manual DM conversations with instant, 24/7 checkout flows, merchants capture impulse purchases and eliminate lead drop-off caused by delayed responses.
-* **Maximum Operational Efficiency:** Store owners and managers save hours daily by delegating routine tasks-such as checking inventory, confirming sizes, and collecting shipping details-to the automated system.
-* **Streamlined Financials:** Direct integration with regional payment gateways allows merchants to receive funds instantly and securely, increasing the average order value through seamless checkout experiences.
+* **SaaS & Product Ecosystems:** Developing scalable multi-tenant applications from the ground up, including our flagship e-commerce automation platform, **SwiftCart**.
+* **Global Infrastructure:** Designing centralized authentication services, state management, complex permission systems, and secure billing/payment integrations.
+* **Full-Stack Web Development:** Delivering end-to-end, high-performance web applications tailored for B2B and B2C markets.
+* **Business Automation:** Streamlining operational workflows, real-time data synchronization, and advanced third-party API integrations (including payment gateways, geospatial libraries, and notification services).
 
-### Core Platform Capabilities
+### Let's Connect
 
-* **Instant Storefront Generation:** Deployment of lightning-fast, conversion-optimized storefronts that function independently via custom domains, requiring zero technical setup from the merchant.
-* **Centralized Order Management (CRM):** A comprehensive dashboard for merchants to track order statuses, manage fulfillment, and generate shipping logistics in one unified interface.
-* **Dynamic Inventory Control:** Advanced catalog management supporting complex product matrices, including automated tracking of specific sizes, colors, and remaining stock limits.
-* **Real-Time Notification System:** Instant synchronization of customer actions with merchant Telegram channels via Webhooks, ensuring the business owner is always informed without constantly monitoring a dashboard.
-
-Andriy Shavalo - Full-Stack Developer
+Andriy Shavalo - Full-Stack Developer  
 [LinkedIn Profile](https://www.linkedin.com/in/andriy-shavalo-ab803b35b) | [Telegram](https://t.me/andriyshavalo)
 
 ---
 
 ## Українська версія
 
-# SwiftCart Solutions
+# Vealis Labs
 
-SwiftCart Solutions - це B2B SaaS-платформа, яка перетворює сторінки в соціальних мережах на повністю автоматизований e-commerce бізнес. Ми допомагаємо незалежним продавцям масштабувати продажі, позбутися ручної обробки замовлень та суттєво підвищити операційну продуктивність.
+Vealis Labs — це технологічна компанія, яка спеціалізується на розробці масштабованих SaaS-платформ, надійної бекенд-інфраструктури та рішень для автоматизації бізнес-процесів. Ми створюємо продукти, які спрощують складні операційні задачі, з особливим фокусом на архітектурну досконалість, глобальні системи безпеки та бездоганний користувацький досвід.
 
-### Цінність для бізнесу: Що отримують клієнти
+### Основні напрямки діяльності
 
-* **Збільшення конверсії продажів:** Заміна довгих переписок у діректі на швидкий процес оформлення замовлення 24/7 дозволяє не втрачати клієнтів через затримки з відповідями менеджера та стимулює імпульсивні покупки.
-* **Максимальна операційна ефективність:** Власники магазинів економлять години робочого часу щодня. Система бере на себе рутину: перевірку наявності потрібного розміру, збір контактних даних та реквізитів для доставки.
-* **Швидкі фінансові потоки:** Пряма інтеграція з локальними платіжними шлюзами дозволяє приймати оплати безпечно та миттєво, підвищуючи довіру покупців та середній чек завдяки зручному чекауту.
+* **SaaS Екосистеми:** Розробка масштабованих мультитенантних застосунків, включаючи наш флагманський продукт для автоматизації e-commerce — **SwiftCart**.
+* **Глобальна інфраструктура:** Побудова централізованих систем автентифікації, управління станом, складних систем прав доступу та безпечних інтеграцій платіжних шлюзів.
+* **Full-Stack розробка:** Створення комплексних, високопродуктивних веб-рішень для B2B та B2C ринків від ідеї до продакшену.
+* **Автоматизація бізнесу:** Оптимізація робочих процесів, синхронізація даних у реальному часі та глибока інтеграція API (платіжні системи, картографічні сервіси, системи сповіщень).
 
-### Ключові можливості платформи
+### Контакти
 
-* **Миттєва генерація вітрин:** Створення швидких, оптимізованих для продажів веб-вітрин, які працюють за власними доменами та не вимагають від продавця жодних технічних налаштувань.
-* **Централізоване управління (CRM):** Зручний дашборд для відстеження статусів замовлень, контролю виконання та швидкої генерації даних для логістичних компаній (наприклад, Нової Пошти).
-* **Динамічний контроль складу:** Професійне управління каталогом із підтримкою складних товарних матриць - автоматичний облік залишків за конкретними розмірами, кольорами та моделями.
-* **Система сповіщень у реальному часі:** Миттєва синхронізація дій покупців із Telegram-каналом продавця через Webhooks. Власник бізнесу бачить нові замовлення одразу, без необхідності постійно оновлювати сторінку браузера.
-
-Andriy Shavalo - Full-Stack Developer
+Andriy Shavalo - Full-Stack Developer  
 [LinkedIn Профіль](https://www.linkedin.com/in/andriy-shavalo-ab803b35b) | [Telegram](https://t.me/andriyshavalo)
