@@ -13,11 +13,6 @@ Vealis Labs is a technology organization dedicated to engineering scalable SaaS 
 * **Full-Stack Web Development:** Delivering end-to-end, high-performance web applications tailored for B2B and B2C markets.
 * **Business Automation:** Streamlining operational workflows, real-time data synchronization, and advanced third-party API integrations (including payment gateways, geospatial libraries, and notification services).
 
-### Let's Connect
-
-Andriy Shavalo - Full-Stack Developer  
-[LinkedIn Profile](https://www.linkedin.com/in/andriy-shavalo-ab803b35b) | [Telegram](https://t.me/andriyshavalo)
-
 ---
 
 ## Українська версія
